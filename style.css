@@ -3,6 +3,7 @@ body{
     padding: 0;
     background-color: bisque;
     font-size: larger;
+    font-family: Arial, sans-serif;
 }
 .header{
     height: 90px;
@@ -125,3 +126,4 @@ img{
     width: 330px;
     height: auto;
 }
+  
